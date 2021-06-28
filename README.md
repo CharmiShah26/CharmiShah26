@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Data Science , Flutter , Photoshop**
 - 👯 I’m looking to collaborate on **paper related to data science , ML**
 - 🤝 I’m looking for help with **competitive programming and expertise in field of ML**
-- 💬 Ask me about **CP, python, Data science , Social media marketing and designing **
+- 💬 Ask me about **CP, python, Data science , Social media marketing and designing**
 - 📫 How to reach me **charmishah2611@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
