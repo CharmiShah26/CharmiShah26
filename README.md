@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://twitter.com/charmishah26" target="blank"><img src="https://img.shields.io/twitter/follow/charmishah26?logo=twitter&style=for-the-badge" alt="charmishah26" /></a> </p>
 
 - 🔭 I’m currently carrying prusuing my Master's Degree in **Engineering Management from Cornell University**
-- 🌱 I’m currently learning **Data Science , Figma , Tableau**
+- 🌱 I’m currently learning **Asana**
 - 👯 I’m looking to collaborate on **paper related to data science , ML**
-- 🤝 I’m looking for help with **competitive programming and expertise in field of ML**
-- 💬 Ask me about **CP, python, Data science , Figma, Social media marketing and designing**
-- 📫 How to reach me **charmishah2611@gmail.com**
+- 🤝 I’m looking for summer 2024 Internships in **Product Management role in tech**
+- 💬 Ask me about **Data Science, Machine Learning,Engineering management, project management, program management , python, Figma, Social media marketing and designing**
+- 📫 How to reach me **charmishahwork26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
