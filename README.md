@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/charmishah26" target="blank"><img src="https://img.shields.io/twitter/follow/charmishah26?logo=twitter&style=for-the-badge" alt="charmishah26" /></a> </p>
 
-- 🔭 I’m currently carrying out **research on rise CO2 per capita in countries**
+- 🔭 I’m currently carrying prusuing my Master's Degree in **Engineering Management from Cornell University**
 - 🌱 I’m currently learning **Data Science , Figma , Tableau**
 - 👯 I’m looking to collaborate on **paper related to data science , ML**
 - 🤝 I’m looking for help with **competitive programming and expertise in field of ML**
